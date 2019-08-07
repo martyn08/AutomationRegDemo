@@ -1,0 +1,408 @@
+[
+  {
+    "line": 2,
+    "elements": [
+      {
+        "line": 7,
+        "name": "Work experience registration",
+        "description": "",
+        "id": "google-search;work-experience-registration",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 3271002666,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "i\u0027m on google page",
+            "match": {
+              "location": "AutomationRegDemoSteps.i_m_on_google_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 3877460363,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "i navigate to \"URL\" to search for online store",
+            "match": {
+              "arguments": [
+                {
+                  "val": "URL",
+                  "offset": 15
+                }
+              ],
+              "location": "AutomationRegDemoSteps.i_navigate_to_to_search_for_online_store(String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 1238724848,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "i click on \"sign in\" button to login",
+            "match": {
+              "arguments": [
+                {
+                  "val": "sign in",
+                  "offset": 12
+                }
+              ],
+              "location": "AutomationRegDemoSteps.i_click_on_button_to_login(String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 185431272,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "i enter valid \"Email Address\" and \"Password\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Email Address",
+                  "offset": 15
+                },
+                {
+                  "val": "Password",
+                  "offset": 35
+                }
+              ],
+              "location": "AutomationRegDemoSteps.i_enter_valid_and(String,String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 1223517576,
+              "status": "passed"
+            },
+            "line": 12,
+            "name": "i clicked on \"Sign in\" button",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Sign in",
+                  "offset": 14
+                }
+              ],
+              "location": "AutomationRegDemoSteps.i_clicked_on_button(String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 1635922424,
+              "status": "passed"
+            },
+            "line": 13,
+            "name": "i click on \"Dresses\" section to view the product",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Dresses",
+                  "offset": 12
+                }
+              ],
+              "location": "AutomationRegDemoSteps.i_click_on_section_to_view_the_product(String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 1342468849,
+              "status": "passed"
+            },
+            "line": 14,
+            "name": "i click on \"summer Dresses\" to select desired dress",
+            "match": {
+              "arguments": [
+                {
+                  "val": "summer Dresses",
+                  "offset": 12
+                }
+              ],
+              "location": "AutomationRegDemoSteps.i_click_on_to_select_desired_dress(String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 1087650424,
+              "status": "passed"
+            },
+            "line": 15,
+            "name": "i click on \"printed summer dress\" to select desired shirt",
+            "match": {
+              "arguments": [
+                {
+                  "val": "printed summer dress",
+                  "offset": 12
+                }
+              ],
+              "location": "AutomationRegDemoSteps.i_click_on_to_select_desired_shirt(String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 66927516,
+              "status": "passed"
+            },
+            "line": 16,
+            "name": "i click on \"Quantity\" to select two dresses",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Quantity",
+                  "offset": 12
+                }
+              ],
+              "location": "AutomationRegDemoSteps.i_click_on_to_select_two_dresses(String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 48615273,
+              "status": "passed"
+            },
+            "line": 17,
+            "name": "i click on \"size\" to choose medium dress",
+            "match": {
+              "arguments": [
+                {
+                  "val": "size",
+                  "offset": 12
+                }
+              ],
+              "location": "AutomationRegDemoSteps.i_click_on_to_choose_medium_dress(String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 79824000,
+              "status": "passed"
+            },
+            "line": 18,
+            "name": "i click on \"White\" to select the colour of dress",
+            "match": {
+              "arguments": [
+                {
+                  "val": "White",
+                  "offset": 12
+                }
+              ],
+              "location": "AutomationRegDemoSteps.i_click_on_to_select_the_colour_of_dress(String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 69597091,
+              "status": "passed"
+            },
+            "line": 19,
+            "name": "i click on \"Add to cart\" to add the item to basket",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Add to cart",
+                  "offset": 12
+                }
+              ],
+              "location": "AutomationRegDemoSteps.i_click_on_to_add_the_item_to_basket(String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 1883736727,
+              "status": "passed"
+            },
+            "line": 20,
+            "name": "i click on \"proceed to checkout\" to exit the basket",
+            "match": {
+              "arguments": [
+                {
+                  "val": "proceed to checkout",
+                  "offset": 12
+                }
+              ],
+              "location": "AutomationRegDemoSteps.i_click_on_to_exit_the_basket(String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 796770909,
+              "status": "passed"
+            },
+            "line": 21,
+            "name": "i click on \"proceed to checkout\" to exit summary",
+            "match": {
+              "arguments": [
+                {
+                  "val": "proceed to checkout",
+                  "offset": 12
+                }
+              ],
+              "location": "AutomationRegDemoSteps.i_click_on_to_exit_summary(String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 77106909,
+              "status": "passed"
+            },
+            "line": 22,
+            "name": "i type \"All for you\" in the comment box",
+            "match": {
+              "arguments": [
+                {
+                  "val": "All for you",
+                  "offset": 8
+                }
+              ],
+              "location": "AutomationRegDemoSteps.i_type_in_the_comment_box(String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 776382060,
+              "status": "passed"
+            },
+            "line": 23,
+            "name": "i click on \"proceed to checkout\" to exit Address",
+            "match": {
+              "arguments": [
+                {
+                  "val": "proceed to checkout",
+                  "offset": 12
+                }
+              ],
+              "location": "AutomationRegDemoSteps.i_click_on_to_exit_Address(String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 62013091,
+              "status": "passed"
+            },
+            "line": 24,
+            "name": "i check the \"Terms of Service\" to accept condition",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Terms of Service",
+                  "offset": 13
+                }
+              ],
+              "location": "AutomationRegDemoSteps.i_check_the_to_accept_condition(String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 928502303,
+              "status": "passed"
+            },
+            "line": 25,
+            "name": "i click on \"proceed to checkout\" to exit Shipping",
+            "match": {
+              "arguments": [
+                {
+                  "val": "proceed to checkout",
+                  "offset": 12
+                }
+              ],
+              "location": "AutomationRegDemoSteps.i_click_on_to_exit_Shipping(String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 130909,
+              "status": "passed"
+            },
+            "line": 26,
+            "name": "\"Payment page\" is displayed",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Payment page",
+                  "offset": 1
+                }
+              ],
+              "location": "AutomationRegDemoSteps.is_displayed(String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 643013333,
+              "status": "passed"
+            },
+            "line": 27,
+            "name": "i click on \"pay by check\" button to make payment",
+            "match": {
+              "arguments": [
+                {
+                  "val": "pay by check",
+                  "offset": 12
+                }
+              ],
+              "location": "AutomationRegDemoSteps.i_click_on_button_to_make_payment(String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 1844645334,
+              "status": "passed"
+            },
+            "line": 28,
+            "name": "i click on \"confirm my order\" to complete the transaction",
+            "match": {
+              "arguments": [
+                {
+                  "val": "confirm my order",
+                  "offset": 12
+                }
+              ],
+              "location": "AutomationRegDemoSteps.i_click_on_to_complete_the_transaction(String)"
+            },
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "Google Search",
+    "description": "As a web user\nI want to be able to register\nSo that I can make purchase",
+    "id": "google-search",
+    "keyword": "Feature",
+    "uri": "AutomationRegDemo.feature",
+    "tags": [
+      {
+        "line": 1,
+        "name": "@GoogleSearch"
+      },
+      {
+        "line": 1,
+        "name": "@test"
+      }
+    ]
+  }
+]
