@@ -28,3 +28,9 @@ Feature: Google Search
      Then i click on "confirm my order" to complete the transaction
 
 
+  Scenario: Search result page contains search query
+    Given i'm on google page
+    When I search for "Cucumber"
+    Then the page title should contain "cucumber"
+
+

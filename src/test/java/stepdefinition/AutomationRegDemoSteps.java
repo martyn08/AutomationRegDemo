@@ -138,4 +138,17 @@ public class AutomationRegDemoSteps {
         driver.quit();
     }
 
+    @When("^I search for \"([^\"]*)\"$")
+    public void i_search_for(String arg1) throws Throwable {
+        WebElement element = driver.findElement(By.name("q"));
+        element.sendKeys(arg1);
+        element.submit();
+    }
+
+    @Then("^the page title should contain \"([^\"]*)\"$")
+    public void the_page_title_should_contain(String arg1) throws Throwable {
+        System.out.println(arg1);
+        driver.quit();
+    }
+
 }

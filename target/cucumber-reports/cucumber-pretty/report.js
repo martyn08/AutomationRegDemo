@@ -2,7 +2,7 @@ $(document).ready(function() {var formatter = new CucumberHTML.DOMFormatter($('.
 formatter.feature({
   "line": 2,
   "name": "Google Search",
-  "description": "As a web user\nI want to be able to register\nSo that I can make purchase",
+  "description": "As a web user\r\nI want to be able to register\r\nSo that I can make purchase",
   "id": "google-search",
   "keyword": "Feature",
   "tags": [
@@ -133,7 +133,7 @@ formatter.match({
   "location": "AutomationRegDemoSteps.i_m_on_google_page()"
 });
 formatter.result({
-  "duration": 3271002666,
+  "duration": 4023305674,
   "status": "passed"
 });
 formatter.match({
@@ -146,7 +146,7 @@ formatter.match({
   "location": "AutomationRegDemoSteps.i_navigate_to_to_search_for_online_store(String)"
 });
 formatter.result({
-  "duration": 3877460363,
+  "duration": 5535153421,
   "status": "passed"
 });
 formatter.match({
@@ -159,7 +159,7 @@ formatter.match({
   "location": "AutomationRegDemoSteps.i_click_on_button_to_login(String)"
 });
 formatter.result({
-  "duration": 1238724848,
+  "duration": 7416677899,
   "status": "passed"
 });
 formatter.match({
@@ -176,7 +176,7 @@ formatter.match({
   "location": "AutomationRegDemoSteps.i_enter_valid_and(String,String)"
 });
 formatter.result({
-  "duration": 185431272,
+  "duration": 316298845,
   "status": "passed"
 });
 formatter.match({
@@ -189,7 +189,7 @@ formatter.match({
   "location": "AutomationRegDemoSteps.i_clicked_on_button(String)"
 });
 formatter.result({
-  "duration": 1223517576,
+  "duration": 16507705205,
   "status": "passed"
 });
 formatter.match({
@@ -202,7 +202,7 @@ formatter.match({
   "location": "AutomationRegDemoSteps.i_click_on_section_to_view_the_product(String)"
 });
 formatter.result({
-  "duration": 1635922424,
+  "duration": 10040885778,
   "status": "passed"
 });
 formatter.match({
@@ -215,7 +215,7 @@ formatter.match({
   "location": "AutomationRegDemoSteps.i_click_on_to_select_desired_dress(String)"
 });
 formatter.result({
-  "duration": 1342468849,
+  "duration": 2356312866,
   "status": "passed"
 });
 formatter.match({
@@ -228,7 +228,7 @@ formatter.match({
   "location": "AutomationRegDemoSteps.i_click_on_to_select_desired_shirt(String)"
 });
 formatter.result({
-  "duration": 1087650424,
+  "duration": 1748471517,
   "status": "passed"
 });
 formatter.match({
@@ -241,7 +241,7 @@ formatter.match({
   "location": "AutomationRegDemoSteps.i_click_on_to_select_two_dresses(String)"
 });
 formatter.result({
-  "duration": 66927516,
+  "duration": 175258012,
   "status": "passed"
 });
 formatter.match({
@@ -254,7 +254,7 @@ formatter.match({
   "location": "AutomationRegDemoSteps.i_click_on_to_choose_medium_dress(String)"
 });
 formatter.result({
-  "duration": 48615273,
+  "duration": 186475456,
   "status": "passed"
 });
 formatter.match({
@@ -267,7 +267,7 @@ formatter.match({
   "location": "AutomationRegDemoSteps.i_click_on_to_select_the_colour_of_dress(String)"
 });
 formatter.result({
-  "duration": 79824000,
+  "duration": 108501713,
   "status": "passed"
 });
 formatter.match({
@@ -280,7 +280,7 @@ formatter.match({
   "location": "AutomationRegDemoSteps.i_click_on_to_add_the_item_to_basket(String)"
 });
 formatter.result({
-  "duration": 69597091,
+  "duration": 69674115,
   "status": "passed"
 });
 formatter.match({
@@ -293,7 +293,7 @@ formatter.match({
   "location": "AutomationRegDemoSteps.i_click_on_to_exit_the_basket(String)"
 });
 formatter.result({
-  "duration": 1883736727,
+  "duration": 1862918436,
   "status": "passed"
 });
 formatter.match({
@@ -306,7 +306,7 @@ formatter.match({
   "location": "AutomationRegDemoSteps.i_click_on_to_exit_summary(String)"
 });
 formatter.result({
-  "duration": 796770909,
+  "duration": 1326761380,
   "status": "passed"
 });
 formatter.match({
@@ -319,7 +319,7 @@ formatter.match({
   "location": "AutomationRegDemoSteps.i_type_in_the_comment_box(String)"
 });
 formatter.result({
-  "duration": 77106909,
+  "duration": 98344147,
   "status": "passed"
 });
 formatter.match({
@@ -332,7 +332,7 @@ formatter.match({
   "location": "AutomationRegDemoSteps.i_click_on_to_exit_Address(String)"
 });
 formatter.result({
-  "duration": 776382060,
+  "duration": 1148982643,
   "status": "passed"
 });
 formatter.match({
@@ -345,7 +345,7 @@ formatter.match({
   "location": "AutomationRegDemoSteps.i_check_the_to_accept_condition(String)"
 });
 formatter.result({
-  "duration": 62013091,
+  "duration": 88074096,
   "status": "passed"
 });
 formatter.match({
@@ -358,7 +358,7 @@ formatter.match({
   "location": "AutomationRegDemoSteps.i_click_on_to_exit_Shipping(String)"
 });
 formatter.result({
-  "duration": 928502303,
+  "duration": 1331501739,
   "status": "passed"
 });
 formatter.match({
@@ -371,7 +371,7 @@ formatter.match({
   "location": "AutomationRegDemoSteps.is_displayed(String)"
 });
 formatter.result({
-  "duration": 130909,
+  "duration": 229333,
   "status": "passed"
 });
 formatter.match({
@@ -384,7 +384,7 @@ formatter.match({
   "location": "AutomationRegDemoSteps.i_click_on_button_to_make_payment(String)"
 });
 formatter.result({
-  "duration": 643013333,
+  "duration": 1049100074,
   "status": "passed"
 });
 formatter.match({
@@ -397,7 +397,63 @@ formatter.match({
   "location": "AutomationRegDemoSteps.i_click_on_to_complete_the_transaction(String)"
 });
 formatter.result({
-  "duration": 1844645334,
+  "duration": 2044575472,
+  "status": "passed"
+});
+formatter.scenario({
+  "line": 31,
+  "name": "Search result page contains search query",
+  "description": "",
+  "id": "google-search;search-result-page-contains-search-query",
+  "type": "scenario",
+  "keyword": "Scenario"
+});
+formatter.step({
+  "line": 32,
+  "name": "i\u0027m on google page",
+  "keyword": "Given "
+});
+formatter.step({
+  "line": 33,
+  "name": "I search for \"Cucumber\"",
+  "keyword": "When "
+});
+formatter.step({
+  "line": 34,
+  "name": "the page title should contain \"cucumber\"",
+  "keyword": "Then "
+});
+formatter.match({
+  "location": "AutomationRegDemoSteps.i_m_on_google_page()"
+});
+formatter.result({
+  "duration": 3465822578,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "Cucumber",
+      "offset": 14
+    }
+  ],
+  "location": "AutomationRegDemoSteps.i_search_for(String)"
+});
+formatter.result({
+  "duration": 2237424255,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "cucumber",
+      "offset": 31
+    }
+  ],
+  "location": "AutomationRegDemoSteps.the_page_title_should_contain(String)"
+});
+formatter.result({
+  "duration": 613583890,
   "status": "passed"
 });
 });
